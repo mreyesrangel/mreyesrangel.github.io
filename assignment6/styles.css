@@ -1,0 +1,25 @@
+.external-style-body {
+    background-color: #f0e68c
+}
+.external-h1 {
+    text-align: center; /* Center the heading */
+    color: darkblue;    /* Change the text color to dark blue */
+}
+.external-nav-table {
+    margin: 0 auto; /* Center the table horizontally */
+    border-collapse: collapse; /* Collapse table borders */
+    width: 100%; /* Set the table width to 100% */
+    background-color: #e0e0e0; /* Set the background color to a light gray */
+}
+.external-nav-td {
+    padding: 10px; /* Add padding to the table cells */
+}
+.external-nav-a {
+    color: brown;          /* Set the text color to brown */
+    font-size: 20px;      /* Set the font size to 20 pixels */
+    text-decoration: none; /* Remove the underline from the links */
+}
+.embedded-h2-about {
+    text-align: center; /* Center the heading */
+    color: darkred;     /* Change the text color to dark red */
+}
